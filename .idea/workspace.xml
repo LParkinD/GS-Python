@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6259b85f-ecf5-40a0-820b-62470c4bd782" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000007236" />
+      <entry key="MS500" value="1.0037315739702457" />
+      <entry key="S2" value="1.2473698795963002" />
+      <entry key="S5" value="1.6192667852310518" />
+      <entry key="S10" value="2.1065297287742477" />
+      <entry key="S30" value="3.3532347015701323" />
+      <entry key="S60" value="4.035971704854477" />
+      <entry key="M2" value="4.712826376671067" />
+      <entry key="M5" value="7.849032212112984" />
+      <entry key="M10" value="16.33279721419047" />
+      <entry key="M15" value="26.027140050333905" />
+      <entry key="M30" value="53.471590572680796" />
+      <entry key="H1" value="104.89440564227468" />
+      <entry key="H2" value="214.0013233816623" />
+      <entry key="H4" value="407.82987182255584" />
+      <entry key="D1" value="878.3511364186631" />
+      <entry key="W1" value="1023.8806740681683" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.0950071279909658E-244" />
+      <entry key="S5" value="3.3765579056655436E-98" />
+      <entry key="S10" value="1.8375412834252873E-49" />
+      <entry key="S30" value="5.697151912781635E-17" />
+      <entry key="S60" value="7.894651257762891E-9" />
+      <entry key="M2" value="1.0842690389056366E-4" />
+      <entry key="M5" value="0.04273772251100816" />
+      <entry key="M10" value="0.34751307667504083" />
+      <entry key="M15" value="0.7191603748831698" />
+      <entry key="M30" value="1.5941102518793546" />
+      <entry key="H1" value="2.8061950974416794" />
+      <entry key="H2" value="5.386724673832503" />
+      <entry key="H4" value="10.24094876176149" />
+      <entry key="D1" value="21.846862561741823" />
+      <entry key="W1" value="25.351006836130164" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="7.307029945117564E-10" />
+      <entry key="MS500" value="0.01604630379268151" />
+      <entry key="S2" value="0.5340063026910163" />
+      <entry key="S5" value="1.2010764578347364" />
+      <entry key="S10" value="1.8230105118403155" />
+      <entry key="S30" value="3.1884589819517477" />
+      <entry key="S60" value="3.933004247370765" />
+      <entry key="M2" value="4.653045692916589" />
+      <entry key="M5" value="7.859595288704388" />
+      <entry key="M10" value="16.656861075727328" />
+      <entry key="M15" value="26.725645338618413" />
+      <entry key="M30" value="55.047815404279596" />
+      <entry key="H1" value="107.68456343187876" />
+      <entry key="H2" value="219.37343139971128" />
+      <entry key="H4" value="418.0583003290276" />
+      <entry key="D1" value="900.193964756158" />
+      <entry key="W1" value="1049.2310213939388" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LmtBsLAGIplhU3vR1wtgjdlWfs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.assistente.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.orientação.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lucas/GS-Python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lucas\GS-Python" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lucas\citizen-assist-ai\data" />
+      <recent name="C:\Users\Lucas\citizen-assist-ai" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="2" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="assistente" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GS-python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../citizen-assist-ai" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../citizen-assist-ai/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.assistente" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-6fa658e1df1a-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.369" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6259b85f-ecf5-40a0-820b-62470c4bd782" name="Changes" comment="" />
+      <created>1794070939464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794070939464</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
