@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6259b85f-ecf5-40a0-820b-62470c4bd782" name="Changes" comment="" />
+    <list default="true" id="6259b85f-ecf5-40a0-820b-62470c4bd782" name="Changes" comment="Teste" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -17,63 +20,66 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000007236" />
-      <entry key="MS500" value="1.0037315739702457" />
-      <entry key="S2" value="1.2473698795963002" />
-      <entry key="S5" value="1.6192667852310518" />
-      <entry key="S10" value="2.1065297287742477" />
-      <entry key="S30" value="3.3532347015701323" />
-      <entry key="S60" value="4.035971704854477" />
-      <entry key="M2" value="4.712826376671067" />
-      <entry key="M5" value="7.849032212112984" />
-      <entry key="M10" value="16.33279721419047" />
-      <entry key="M15" value="26.027140050333905" />
-      <entry key="M30" value="53.471590572680796" />
-      <entry key="H1" value="104.89440564227468" />
-      <entry key="H2" value="214.0013233816623" />
-      <entry key="H4" value="407.82987182255584" />
-      <entry key="D1" value="878.3511364186631" />
-      <entry key="W1" value="1023.8806740681683" />
+      <entry key="MS100" value="1.0001868597424872" />
+      <entry key="MS500" value="1.3054532886132095" />
+      <entry key="S2" value="2.3981218465123204" />
+      <entry key="S5" value="3.16295865856171" />
+      <entry key="S10" value="3.8209884540088037" />
+      <entry key="S30" value="5.21403349587122" />
+      <entry key="S60" value="5.954501687322446" />
+      <entry key="M2" value="6.666298947141304" />
+      <entry key="M5" value="9.819922215503281" />
+      <entry key="M10" value="18.304079824817528" />
+      <entry key="M15" value="27.997207129346748" />
+      <entry key="M30" value="55.44135293543347" />
+      <entry key="H1" value="106.86497977779601" />
+      <entry key="H2" value="215.9714325333694" />
+      <entry key="H4" value="409.8014445266587" />
+      <entry key="D1" value="880.3409438816824" />
+      <entry key="W1" value="1025.8789769757482" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="2.0950071279909658E-244" />
-      <entry key="S5" value="3.3765579056655436E-98" />
-      <entry key="S10" value="1.8375412834252873E-49" />
-      <entry key="S30" value="5.697151912781635E-17" />
-      <entry key="S60" value="7.894651257762891E-9" />
-      <entry key="M2" value="1.0842690389056366E-4" />
-      <entry key="M5" value="0.04273772251100816" />
-      <entry key="M10" value="0.34751307667504083" />
-      <entry key="M15" value="0.7191603748831698" />
-      <entry key="M30" value="1.5941102518793546" />
-      <entry key="H1" value="2.8061950974416794" />
-      <entry key="H2" value="5.386724673832503" />
-      <entry key="H4" value="10.24094876176149" />
-      <entry key="D1" value="21.846862561741823" />
-      <entry key="W1" value="25.351006836130164" />
+      <entry key="S2" value="1.2696713885247923E-244" />
+      <entry key="S5" value="2.7636085856440373E-98" />
+      <entry key="S10" value="1.6624104898917316E-49" />
+      <entry key="S30" value="5.5100836048592115E-17" />
+      <entry key="S60" value="7.763957409005671E-9" />
+      <entry key="M2" value="1.0752566914247968E-4" />
+      <entry key="M5" value="0.042595273758756665" />
+      <entry key="M10" value="0.3469334467896889" />
+      <entry key="M15" value="0.718360476330368" />
+      <entry key="M30" value="1.5932234668897174" />
+      <entry key="H1" value="2.8054144620171506" />
+      <entry key="H2" value="5.385975374435683" />
+      <entry key="H4" value="10.240236473305828" />
+      <entry key="D1" value="21.846609302020347" />
+      <entry key="W1" value="25.350964852848907" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="7.307029945117564E-10" />
-      <entry key="MS500" value="0.01604630379268151" />
-      <entry key="S2" value="0.5340063026910163" />
-      <entry key="S5" value="1.2010764578347364" />
-      <entry key="S10" value="1.8230105118403155" />
-      <entry key="S30" value="3.1884589819517477" />
-      <entry key="S60" value="3.933004247370765" />
-      <entry key="M2" value="4.653045692916589" />
-      <entry key="M5" value="7.859595288704388" />
-      <entry key="M10" value="16.656861075727328" />
-      <entry key="M15" value="26.725645338618413" />
-      <entry key="M30" value="55.047815404279596" />
-      <entry key="H1" value="107.68456343187876" />
-      <entry key="H2" value="219.37343139971128" />
-      <entry key="H4" value="418.0583003290276" />
-      <entry key="D1" value="900.193964756158" />
-      <entry key="W1" value="1049.2310213939388" />
+      <entry key="MS100" value="0.752668054055174" />
+      <entry key="MS500" value="1.081815273578333" />
+      <entry key="S2" value="1.9155698567818853" />
+      <entry key="S5" value="2.7958455624527656" />
+      <entry key="S10" value="3.5511196013367408" />
+      <entry key="S30" value="5.0499823694745665" />
+      <entry key="S60" value="5.850866137589232" />
+      <entry key="M2" value="6.605821284403158" />
+      <entry key="M5" value="9.829970718709955" />
+      <entry key="M10" value="18.627363181587427" />
+      <entry key="M15" value="28.694775434333348" />
+      <entry key="M30" value="57.016620868318455" />
+      <entry key="H1" value="109.65432135323536" />
+      <entry key="H2" value="221.34277326307767" />
+      <entry key="H4" value="420.0291516038986" />
+      <entry key="D1" value="902.1835173375496" />
+      <entry key="W1" value="1051.2292820809457" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -95,6 +101,7 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Lucas/GS-Python&quot;,
@@ -169,9 +176,33 @@
       <option name="presentableId" value="Default" />
       <updated>1794070939464</updated>
     </task>
+    <task id="LOCAL-00001" summary="Teste">
+      <option name="closed" value="true" />
+      <created>1795029813382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1795029813382</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste" />
   </component>
 </project>
